@@ -1,0 +1,9 @@
+com\oauth\config\WebSecurityConfiguration.class
+com\oauth\repository\OAuthClientDetailRepository.class
+com\oauth\config\OAuthServerConfiguration.class
+com\oauth\entity\OAuthClientDetail.class
+com\oauth\service\ClientDetailsService.class
+com\oauth\config\OAuthSwaggerConfiguration.class
+com\oauth\config\DatabaseConfig.class
+com\oauth\OAuthApplication.class
+com\oauth\config\CustomAuthenticationEntryPoint.class
